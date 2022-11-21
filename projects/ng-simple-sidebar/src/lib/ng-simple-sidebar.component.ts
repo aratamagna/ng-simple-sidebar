@@ -15,7 +15,7 @@ import { combineLatest, Subject } from 'rxjs';
 
 const PADDING = 30; // reduce amount because of dock padding
 const DEFAULT_WIDTH = '250px';
-const DEFAULT_DOCK_WIDTH = '30px';
+const DEFAULT_DOCK_WIDTH = '60px';
 
 interface Dimensions {
     innerHeight: number;
